@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm palak</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img scr="https://img.freepik.com/free-photo/blockchain-technology-cartoon-illustration_23-2151572175.jpg" alt="
+<img scr="![github](https://github.com/user-attachments/assets/55f65ac9-71eb-4d3d-ba01-2fcb84c94544)
+" alt="
 ">
 
 - 🌱 I’m currently learning **DSA ,Web developement**
