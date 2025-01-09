@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm palak</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img scr="https://boldist.co/wp-content/uploads/2020/11/Laughing-Samurai-Pros-and-Cons-of-Using-Animations-in-Your-Web-Design-1200x833.jpg" alt="">
+<img scr="file:///C:/Users/Palak%20Kumari/Downloads/download.htm" alt="">
 
 - 🌱 I’m currently learning **DSA ,Web developement**
 
