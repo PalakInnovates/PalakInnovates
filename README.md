@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm palak</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img scr="file:///C:/Users/Palak%20Kumari/Downloads/download.htm" alt="">
+<img scr="![image](https://github.com/user-attachments/assets/af52bfbe-84d6-48c4-921f-b5f03745b0d6)
+" alt="">
 
 - 🌱 I’m currently learning **DSA ,Web developement**
 
