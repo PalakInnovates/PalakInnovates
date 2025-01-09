@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm palak</h1>
 <h3 align="center">A passionate web developer from India</h3>
+<img scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fboldist.co%2Fweb-design%2Fusing-animations-in-web-design%2F&psig=AOvVaw13J6uQL89k9otefk6_-aw7&ust=1736527297241000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCYn7qK6YoDFQAAAAAdAAAAABAE" alt="">
 
 - 🌱 I’m currently learning **DSA ,Web developement**
 
