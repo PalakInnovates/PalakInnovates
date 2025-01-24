@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm palak</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" scr="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" alt="coding" width="400" >
+<img scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Farzoopervaiz%2Farzoopervaiz&psig=AOvVaw1MrZiHSORmID4BBvtCYJJd&ust=1737809959747000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCl6dy0josDFQAAAAAdAAAAABBX" alt="coding">
 
 - 🌱 I’m currently learning **DSA ,Web developement**
 
