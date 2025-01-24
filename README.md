@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm palak</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Farzoopervaiz%2Farzoopervaiz&psig=AOvVaw1MrZiHSORmID4BBvtCYJJd&ust=1737809959747000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCl6dy0josDFQAAAAAdAAAAABBX" alt="coding">
+<img align="right" scr="![github](https://github.com/user-attachments/assets/3d191aed-865b-4fbc-90bf-3a84236ba37c)
+" alt="coding">
 
 - 🌱 I’m currently learning **DSA ,Web developement**
 
