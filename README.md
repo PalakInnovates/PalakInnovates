@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm palak</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="coding" width="400" scr="https://camo.githubusercontent.com/66066b22abacaf358032bb15ab64fe18654e8d00e2ed4d07747d89eccb6596ae/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3939312f3939392f6f726967696e616c2f616e6e612d68617672796c79756b682d2e6769663f31353936313235313132">
+<img align="right" alt="coding" width="400" scr="![image](https://github.com/user-attachments/assets/1e3d49a6-3d1b-4ce1-bd74-3f632a8736b3)
+">
 
 - 🌱 I’m currently learning **DSA ,Web developement**
 
